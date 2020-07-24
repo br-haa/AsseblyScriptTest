@@ -1,0 +1,24 @@
+{
+  "name": "assemblyscripttest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "asbuild:untouched": "asc assembly/index.ts --target debug",
+    "asbuild:optimized": "asc assembly/index.ts --target release",
+    "asbuild": "npm run asbuild:untouched && npm run asbuild:optimized",
+    "asbuild:watch": "onchange -i 'assembly/**/*' -- npm run asbuild",
+    "serve-demo": "static-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@assemblyscript/loader": "^0.14.3"
+  },
+  "devDependencies": {
+    "assemblyscript": "^0.14.3",
+    "onchange": "^7.0.2",
+    "static-server": "^2.2.1"
+  }
+}

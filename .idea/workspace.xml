@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54db5807-fbb8-412e-ac6d-3e9c89c75905" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1f6IBJ14hlsddGvE8t8htpxTj1c" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.1.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54db5807-fbb8-412e-ac6d-3e9c89c75905" name="Default Changelist" comment="" />
+      <created>1595531978233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595531978233</updated>
+      <workItem from="1595531979311" duration="8742000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1166" y="-919" key="#Plugins" timestamp="1595532714430">
+      <screen x="614" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="1166" y="-919" key="#Plugins/0.0.1920.1040/614.-1080.1920.1040/1920.0.1920.1040@614.-1080.1920.1040" timestamp="1595532714430" />
+    <state x="1313" y="-770" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595534134515">
+      <screen x="614" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="1313" y="-770" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/614.-1080.1920.1040/1920.0.1920.1040@614.-1080.1920.1040" timestamp="1595534134515" />
+    <state x="1304" y="-813" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595532447919">
+      <screen x="614" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="1304" y="-813" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/614.-1080.1920.1040/1920.0.1920.1040@614.-1080.1920.1040" timestamp="1595532447919" />
+    <state x="1282" y="-985" width="583" height="849" key="find.popup" timestamp="1595532686861">
+      <screen x="614" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="1282" y="-985" width="583" height="849" key="find.popup/0.0.1920.1040/614.-1080.1920.1040/1920.0.1920.1040@614.-1080.1920.1040" timestamp="1595532686861" />
+    <state x="1237" y="-855" width="672" height="678" key="search.everywhere.popup" timestamp="1595532689411">
+      <screen x="614" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="1237" y="-855" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/614.-1080.1920.1040/1920.0.1920.1040@614.-1080.1920.1040" timestamp="1595532689411" />
+  </component>
+</project>
